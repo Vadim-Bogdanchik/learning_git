@@ -1,0 +1,9 @@
+[user]
+	name = Vadim Bogdanchik
+	email = bogdanchik270978@gmail.com
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+  hist = git log --graph
